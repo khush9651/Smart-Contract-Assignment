@@ -16,7 +16,7 @@ with ERC-20 standards and interoperability with existing Ethereum-based services
 -To use the "MyToken" contract, you can deploy it to the Ethereum blockchain using Remix IDE, Truffle, or any other Ethereum development tool.
 -Simply copy the contract code and deploy it using your preferred method.
 
-### Executing program
+## Executing program
 -After deploying the contract, you can interact with it through Ethereum transactions.
 -Use the mint function to create new tokens and the burn function to remove existing tokens from circulation.
 code blocks for commands
