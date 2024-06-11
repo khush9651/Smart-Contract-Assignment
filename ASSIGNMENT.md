@@ -50,6 +50,7 @@ contract MyToken {
     }
 }
 ```
+- Compile the contract and deploy it using the Remix interface.
 
 # Help
 - If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
