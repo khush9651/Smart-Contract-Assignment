@@ -1,8 +1,8 @@
-# Hello World
-This Solidity program is a simple "Hello World" program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
+# MyToken
+This Solidity program is a simple "Smart Contract" program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
 
 # Description
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a single function that returns the string "Hello World!". This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
+The "MyToken" contract is written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. It serves as a foundational template for creating custom tokens with basic functionalities. Developers can utilize this contract as a starting point for tokenizing assets, creating utility tokens, or launching their own cryptocurrencies.
 
 # Getting Started
 Executing program
