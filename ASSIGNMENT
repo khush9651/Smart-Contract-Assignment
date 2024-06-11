@@ -3,7 +3,7 @@ The "MyToken" contract is a basic implementation of an ERC-20 compatible token o
 Its primary purpose is to create a customizable token with functionalities for minting and burning tokens, 
 as well as tracking token balances for different addresses.
 
-## Description
+# Description
 The "MyToken" contract is designed to serve as a foundational template for creating ERC-20 compatible tokens on the Ethereum blockchain. 
 It provides essential functionalities for token creation, including minting and burning tokens, along with features to track token balances for different addresses. 
 With customizable variables for token name, symbol, and total supply, developers can easily deploy and manage their own token ecosystems tailored to specific use cases. 
@@ -48,16 +48,13 @@ contract MyToken {
     }
 }
 '''
-#### Help
+# Help
 -If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
 to the Ethereum community for assistance.
 
-command to run if program contains helper info
-Authors
-Contributors names and contact info
+# Authors
+name : Khushi
+contact : khush9651@gmail.com
 
-ex. Dominique Pizzie
-ex. @DomPizzie
-
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+# License
+This project is licensed under the [Khushi] License - see the LICENSE.md file for details
