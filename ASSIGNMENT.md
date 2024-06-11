@@ -47,14 +47,14 @@ contract MyToken {
         balances[_account] -= _amount;
     }
 }
-'''
+
 # Help
 -If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
 to the Ethereum community for assistance.
 
 # Authors
-name : Khushi
-contact : khush9651@gmail.com
+- name : Khushi
+- contact : khush9651@gmail.com
 
 # License
 This project is licensed under the [Khushi] License - see the LICENSE.md file for details
