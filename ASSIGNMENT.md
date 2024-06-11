@@ -20,7 +20,8 @@ with ERC-20 standards and interoperability with existing Ethereum-based services
 - After deploying the contract, you can interact with it through Ethereum transactions.
 - Use the mint function to create new tokens and the burn function to remove existing tokens from circulation.
 code blocks for commands
-'''solidity
+
+```javascript
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
@@ -47,6 +48,7 @@ contract MyToken {
         balances[_account] -= _amount;
     }
 }
+```
 
 # Help
 - If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
