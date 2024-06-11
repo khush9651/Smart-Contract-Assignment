@@ -1,9 +1,9 @@
-#Smart contract
+# Smart contract
 The "MyToken" contract is a basic implementation of an ERC-20 compatible token on the Ethereum blockchain.
 Its primary purpose is to create a customizable token with functionalities for minting and burning tokens, 
 as well as tracking token balances for different addresses.
 
-##Description
+## Description
 The "MyToken" contract is designed to serve as a foundational template for creating ERC-20 compatible tokens on the Ethereum blockchain. 
 It provides essential functionalities for token creation, including minting and burning tokens, along with features to track token balances for different addresses. 
 With customizable variables for token name, symbol, and total supply, developers can easily deploy and manage their own token ecosystems tailored to specific use cases. 
