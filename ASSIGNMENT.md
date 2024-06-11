@@ -13,12 +13,12 @@ with ERC-20 standards and interoperability with existing Ethereum-based services
 
 # Getting Started
 ## Installing
--To use the "MyToken" contract, you can deploy it to the Ethereum blockchain using Remix IDE, Truffle, or any other Ethereum development tool.
--Simply copy the contract code and deploy it using your preferred method.
+- To use the "MyToken" contract, you can deploy it to the Ethereum blockchain using Remix IDE, Truffle, or any other Ethereum development tool.
+- Simply copy the contract code and deploy it using your preferred method.
 
 ## Executing program
--After deploying the contract, you can interact with it through Ethereum transactions.
--Use the mint function to create new tokens and the burn function to remove existing tokens from circulation.
+- After deploying the contract, you can interact with it through Ethereum transactions.
+- Use the mint function to create new tokens and the burn function to remove existing tokens from circulation.
 code blocks for commands
 '''solidity
 // SPDX-License-Identifier: MIT
@@ -49,7 +49,7 @@ contract MyToken {
 }
 
 # Help
--If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
+- If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
 to the Ethereum community for assistance.
 
 # Authors
