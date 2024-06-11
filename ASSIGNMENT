@@ -11,12 +11,12 @@ This contract is particularly useful for projects seeking to launch their own cr
 applications (dApps). By leveraging the solidity code provided in the "MyToken" contract, developers can accelerate the token creation process while ensuring compliance 
 with ERC-20 standards and interoperability with existing Ethereum-based services and platforms.
 
-#Getting Started
-##Installing
+# Getting Started
+## Installing
 -To use the "MyToken" contract, you can deploy it to the Ethereum blockchain using Remix IDE, Truffle, or any other Ethereum development tool.
 -Simply copy the contract code and deploy it using your preferred method.
 
-###Executing program
+### Executing program
 -After deploying the contract, you can interact with it through Ethereum transactions.
 -Use the mint function to create new tokens and the burn function to remove existing tokens from circulation.
 code blocks for commands
@@ -48,7 +48,7 @@ contract MyToken {
     }
 }
 '''
-####Help
+#### Help
 -If you encounter any issues or have questions about using the "MyToken" contract, feel free to refer to the Solidity documentation or reach out 
 to the Ethereum community for assistance.
 
