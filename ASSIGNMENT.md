@@ -17,9 +17,10 @@ with ERC-20 standards and interoperability with existing Ethereum-based services
 - Simply copy the contract code and deploy it using your preferred method.
 
 ## Executing program
-- After deploying the contract, you can interact with it through Ethereum transactions.
-- Use the mint function to create new tokens and the burn function to remove existing tokens from circulation.
-code blocks for commands
+- Go to the Remix website at https://remix.ethereum.org/.
+- Create a new file by clicking on the "+" icon in the left-hand sidebar.
+- Save the file with a .sol extension (e.g., MyToken.sol).
+- Copy and paste the following code into the file:
 
 ```javascript
 // SPDX-License-Identifier: MIT
